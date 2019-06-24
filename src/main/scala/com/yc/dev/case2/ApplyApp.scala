@@ -11,6 +11,11 @@ object ApplyApp {
     c()
   }
 
+  /**
+    * 伴生类和伴生对象
+    * 如果有一个class，还有一个与class同名的object
+    * 那么就称这个object是class的伴生对象，class是object的伴生类
+    */
   class ApplyTest{
     def apply() = {
       println("class ApplyTest apply....")
