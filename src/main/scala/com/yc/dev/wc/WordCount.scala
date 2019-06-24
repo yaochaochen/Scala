@@ -6,7 +6,7 @@ object WordCount {
 
   def main(args: Array[String]): Unit = {
 
-    var startTime = System.currentTimeMillis();
+    var startTime = System.currentTimeMillis()
     //var conf = new
   }
 }
