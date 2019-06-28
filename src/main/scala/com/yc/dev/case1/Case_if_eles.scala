@@ -1,4 +1,4 @@
-package com.yc.dev.chapter1
+package com.yc.dev.case1
 
 /**
   * if else语法

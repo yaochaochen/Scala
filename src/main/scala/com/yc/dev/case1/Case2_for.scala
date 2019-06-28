@@ -1,4 +1,4 @@
-package com.yc.dev.chapter1
+package com.yc.dev.case1
 
 object Case2_for {
 
